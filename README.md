@@ -6,9 +6,9 @@ Welcome to my repository featuring the covers of books I've read and some that I
 
 Here are some of the covers you'll find in this repository:
 
-- ![Book Cover 1](path/to/book-cover-1.jpg)
-- ![Book Cover 2](path/to/book-cover-2.jpg)
-- ![Book Cover 3](path/to/book-cover-3.jpg)
+- ![Streaming Databases](Software Engineer (work)/Data Engineer/Streaming Databases.png)
+- ![Stream Processing with Apache Flink](Software Engineer (work)/Data Engineer/Stream Processing with Apache Flink.png)
+- ![The Well-Grounded Java Developer](Software Engineer (work)/Programming Languages/Java/Core/The Well-Grounded Java Developer.png)
 
 And many more to come!
 
