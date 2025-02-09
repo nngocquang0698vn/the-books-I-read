@@ -6,9 +6,9 @@ Welcome to my repository featuring the covers of books I've read and some that I
 
 Here are some of the covers you'll find in this repository:
 
-- <img src="Software%20Engineer%20(work)/Data%20Engineer/Streaming%20Databases.png" alt="Streaming Databases" width="885" height="1110">
-- <img src="Software%20Engineer%20(work)/Data%20Engineer/Stream%20Processing%20with%20Apache%20Flink.png" alt="Stream Processing with Apache Flink" width="885" height="1110">
-- <img src="Software%20Engineer%20(work)/Programming%20Languages/Java/Core/The%20Well-Grounded%20Java%20Developer.png" alt="The Well-Grounded Java Developer" width="885" height="1110">
+- <img src="Software%20Engineer%20(work)/Data%20Engineer/Streaming%20Databases.png" alt="Streaming Databases" width="442.5" height="555">
+- <img src="Software%20Engineer%20(work)/Data%20Engineer/Stream%20Processing%20with%20Apache%20Flink.png" alt="Stream Processing with Apache Flink" width="442.5" height="555">
+- <img src="Software%20Engineer%20(work)/Programming%20Languages/Java/Core/The%20Well-Grounded%20Java%20Developer.png" alt="The Well-Grounded Java Developer" width="442.5" height="555">
 
 And many more to come!
 
