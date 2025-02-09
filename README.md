@@ -6,9 +6,9 @@ Welcome to my repository featuring the covers of books I've read and some that I
 
 Here are some of the covers you'll find in this repository:
 
-- ![Streaming Databases](Software Engineer (work)/Data Engineer/Streaming Databases.png)
-- ![Stream Processing with Apache Flink](Software Engineer (work)/Data Engineer/Stream Processing with Apache Flink.png)
-- ![The Well-Grounded Java Developer](Software Engineer (work)/Programming Languages/Java/Core/The Well-Grounded Java Developer.png)
+- ![Streaming Databases](Software%20Engineer%20(work)/Data%20Engineer/Streaming%20Databases.png)
+- ![Stream Processing with Apache Flink](Software%20Engineer%20(work)/Data%20Engineer/Stream%20Processing%20with%20Apache%20Flink.png)
+- ![The Well-Grounded Java Developer](Software%20Engineer%20(work)/Programming%20Languages/Java/Core/The%20Well-Grounded%20Java%20Developer.png)
 
 And many more to come!
 
