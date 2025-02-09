@@ -1,6 +1,6 @@
 # 📚 Book Covers of My Reading Journey
 
-Welcome to my repository featuring the covers of books I've read in the fields of mathematics, computer science, and software engineering. I hope these covers inspire you as much as the books have inspired me.
+Welcome to my repository featuring the covers of books I've read and some that I'm planning to read in the fields of mathematics, computer science, and software engineering. I hope these covers inspire you as much as the books have inspired me.
 
 ## Book Covers
 
